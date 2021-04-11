@@ -1,0 +1,59 @@
+[
+    {   
+      "rating":"3",
+        "name": "Radissson",
+        "location": {
+          "city": "Delhi",
+          "country": "India"
+        },
+        "description": "This impressive paella is a perfect party dish and afun meal to cook together with your guests.Add 1 cup of frozen peas along with the mussels, if you like.",
+        "price": "5k/night",
+        "image": "https://cdn1.goibibo.com/voy_ing/t_g/49e9c474665111e991240242ac110002.jpg",
+        "property": "Apartment",
+        "starrating": "Three star"
+        
+      },
+      { 
+        "rating":"4",
+        "name": "Kings Inn",
+        "location": {
+          "city": "Delhi",
+          "country": "India"
+        },
+        "description": "This impressive paella is a perfect party dish and afun meal to cook together with your guests.Add 1 cup of frozen peas along with the mussels, if you like.",
+        "price": "4k/night",
+        "image": "https://media.cntraveller.in/wp-content/uploads/2017/04/hyatt-amritsar.jpg",
+        "property": "Resort",
+        "starrating": "Four star"
+        
+      },
+      {
+        "rating":"5",
+        "name": "City Inn",
+        "location": {
+          "city": "Delhi",
+          "country": "India"
+        },
+        "description": "This impressive paella is a perfect party dish and afun meal to cook together with your guests.Add 1 cup of frozen peas along with the mussels, if you like.Please visit us",
+        "price": "2k/night",
+        "image": "https://images.pexels.com/photos/1134176/pexels-photo-1134176.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "property": "Guest",
+        "starrating": "Five star"
+        
+      },
+      {
+        "rating":"3",
+        "name": "Continental",
+        "location": {
+          "city": "Delhi",
+          "country": "India"
+        },
+        "description": "This impressive paella is a perfect party dish and afun meal to cook together with your guests.Add 1 cup of frozen peas along with the mussels, if you like.",
+        "price": "3k/night",
+        "image": "https://r1imghtlak.mmtcdn.com/4513621ecbde11e4803c32e76f7e45c9.jfif?&output-quality=75&downsize=520:350&crop=520:350;3,0&output-format=jpg",
+        "property": "Holiday",
+        "starrating": "Three star"
+        
+      }
+  
+]
